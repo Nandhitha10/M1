@@ -32,12 +32,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-```
-Enter first character: A
-Enter second character: B
-Enter third character: C
-Characters in reverse order: C B A
-```
+ ![image](https://github.com/user-attachments/assets/0825c6fb-3654-47a3-bb56-87a326440f21)
 
 ## RESULT:
 Thus the program to read 3 characters one by one and print the characters in a reverse order has been executed successfully.
@@ -78,12 +73,8 @@ int main()
 ```
 # OUTPUT:
 
-```
-Enter a number: 5
-A is a positive number.
-Enter a number: -3
-A is not a positive number.
-```
+![image](https://github.com/user-attachments/assets/35fe51cd-7fca-46e2-9fbc-a4b1e7dd8d85)
+
 # RESULT:
 Thus the program to read A values and check whether A is positive number or not has been executed successfully.
  
@@ -124,15 +115,8 @@ int main()
 ```
 ## OUTPUT:
 
-```
-Enter numerator and denominator of first fraction: 1 2
-Enter numerator and denominator of second fraction: 3 4
-Minimum value between the two fractions is: 0.50
+![image](https://github.com/user-attachments/assets/0deee28a-3bcd-44bd-9db7-a5ded7783965)
 
-Enter numerator and denominator of first fraction: 5 8
-Enter numerator and denominator of second fraction: 2 5
-Minimum value between the two fractions is: 0.40
-```
 
 ## RESULT:
 Thus the program to find minimum between two fraction numbers using conditional operator or ternary operator has been executed successfully.
@@ -164,22 +148,14 @@ int main() {
     scanf("%d", &value);
     
     if (value == 1) {
-        printf("The input value is equal to 1.\n");
-    } else {
-        printf("The input value is not equal to 1.\n");
-    }
-    
+        printf("TRUE");
+    } 
     return 0;
 }
 ```
 ## OUTPUT:
-```
-Enter a value: 1
-The input value is equal to 1.
+![image](https://github.com/user-attachments/assets/46dd14fe-bef9-4d2c-9be4-a8503014ca98)
 
-Enter a value: 5
-The input value is not equal to 1.
-```
 ## RESULT:
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
 
@@ -241,22 +217,8 @@ int main()
 }
 ```
 ## OUTPUT:
-```
-Enter marks of three subjects: 70 65 80
-Total Marks = 215.00
-Percentage = 71.67
-Division = First
+![image](https://github.com/user-attachments/assets/9c6471f5-cc67-4fc6-be0d-bd00c7785878)
 
-Enter marks of three subjects: 45 50 42
-Total Marks = 137.00
-Percentage = 45.67
-Division = Second
-
-Enter marks of three subjects: 50 30 60
-Total Marks = 140.00
-Percentage = 46.67
-Division = Fail
-```
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
 
